@@ -1,2 +1,2 @@
 # taskproject
-Backend learning repository for the Africa Agility program. This project documents my journey learning backend development using Python and Django, including class assignments, coding exercises, and practical implementations.
+This repository contains my backend development learning projects from the Africa Agility Backend Track. The project focuses on building backend functionality using Python and Django while practicing core concepts such as models, views, URLs, and database integration.
